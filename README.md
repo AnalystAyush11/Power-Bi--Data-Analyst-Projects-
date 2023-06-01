@@ -24,4 +24,5 @@ for next 15 days .
 information that can drive strategic decision support the supermarket's goals for growth, 
 efficiency, satisfaction
 
-#Technology Used: Power_Bi   
+# Technology Used:
+Power_Bi   
